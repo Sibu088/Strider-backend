@@ -1,4 +1,5 @@
-Strider — Backend API
+Strider — Backend API<img width="1900" height="960" alt="image" src="https://github.com/user-attachments/assets/30966862-fc51-46a9-9efc-22d5ee7065ee" />
+
 
 A clean and lightweight Spring Boot REST API for the Strider project.
 Includes Swagger UI, PostgreSQL, and full Docker support for easy local development and deployment.
